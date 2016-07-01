@@ -1,0 +1,11 @@
+commit 47c616b9dbf71ef895f556e911cb96eb5b62f0a5
+Author: Sergio Chamorro <sergiochamo96@gmail.com>
+Date:   Thu Jun 30 20:28:23 2016 -0400
+
+    Se agrego tercera columna en index
+
+commit ab43b6444513424b560084fc7e5f49019c252ad7
+Author: Sergio Chamorro <sergiochamo96@gmail.com>
+Date:   Thu Jun 30 12:38:55 2016 -0400
+
+    Iniciamos
